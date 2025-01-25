@@ -8,3 +8,5 @@ in the future, a signal SOS.
 
 # **Usage**
 To use SaveMySoulProject
+
+THE README IS NOT FINISHED
