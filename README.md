@@ -2,11 +2,12 @@
 Save my soul telegram bot
 
 # **Introduction**
-It's a part of save my soul project.  
-In the Telegram bot, you can get a Telegram id and,
-in the future, a signal SOS.
+Save my soul - it's a project to ensure your safety.
+Telegram bot is a part of save my soul project.
+In the Telegram bot, you can get:
+  - Telegram id,
+  - Signal SOS.
 
 # **Usage**
-To use SaveMySoulProject
-
-THE README IS NOT FINISHED
+To use SaveMySoulProject you need:
+  
