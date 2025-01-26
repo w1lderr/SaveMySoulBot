@@ -10,4 +10,4 @@ In the Telegram bot, you can get:
 
 # **Usage**
 To use SaveMySoulProject you need:
-  1. Download the [application](https://t.me/savemysoultelegramchannel)
+  1. Download [application](https://t.me/savemysoultelegramchannel) from telegram channel.
