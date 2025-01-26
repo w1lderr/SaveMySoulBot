@@ -10,5 +10,8 @@ In the Telegram bot, you can get:
 
 # **Usage**
 To use SaveMySoulProject you need:
-  1. Go to the [telegram bot](), send command /start and copy your id.
-  2. Download the [application](https://t.me/savemysoultelegramchannel) from the telegram channel. 
+  1. Go to the [telegram bot](@savemysoull_bot), send command [/start]() and copy your id.
+  2. Download the [application](https://t.me/savemysoultelegramchannel) from the telegram channel.
+  3. Give access to location, and add Telegram user
+  4. Send a SOS. And you can also add a widget to make sending an SOS more comfortable.
+
